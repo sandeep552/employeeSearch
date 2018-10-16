@@ -1,6 +1,10 @@
 # employeeSearch
 Demo Application 
 
+Technologies used:
+Grails : 2.4.3
+Java : 1.7.0U71
+
 Employee details will be saved under a configured location "employee.local.database.dir" Directory  and "employee.local.database.fileName" in a local file.
 
 
